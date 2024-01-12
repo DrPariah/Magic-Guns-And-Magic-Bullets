@@ -1,3 +1,7 @@
+This is just the combined mod that I have over in another repository, with some minor updates. Changes (if I have the spoons for them) will be made here. 
+
+Original Magic Bullets mod here (https://github.com/NEricN/Magiclysm-MagicBullets), please star to show support. Original Magic Guns mod here (https://github.com/YASUYASUYASUYASU/MagiclysmWithMagicitem_Experimental-), same deal, please star to show support. Note that one has a bunch of additional content beyond the guns, but it's also using a bunch of things that aren't in the BN fork (mostly in terms of flags, artifact data, and the like) that I haven't had the time and the spoons to try to convert over.
+
 # Magiclysm Enchanted Bullets
 
 This is a mod that adds a book for enchanted bullets. It programmatically looks through all bullets and makes enchanted variants of factory loaded non-variant bullets.
@@ -6,7 +10,6 @@ Not balance tested.
 
 Inspired by https://github.com/YASUYASUYASUYASU/magiclysm_addon.
 
-(Pariah's Note: My branch didn't change any information here, just combined NEricN's mod with an English translation of YASUYASUYASUYASU's original mod. The translation is via Google Translate, so expect some...oddities.)
 
 ## Installation
 
