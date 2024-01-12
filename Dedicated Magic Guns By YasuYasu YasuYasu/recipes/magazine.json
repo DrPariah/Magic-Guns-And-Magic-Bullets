@@ -1,0 +1,121 @@
+[
+  {
+    "type": "recipe",
+    "result": "22_magic_speedloader8",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 1 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "38_magic_speedloader6",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 3 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "9mm_magic_speedloader6",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 5 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "40_magic_speedloader6",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 7 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "45_magic_speedloader6",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 8 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "44_magic_speedloader6",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 9 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "454_magic_speedloader5",
+    "category": "CC_ENCHANTED",
+    "subcategory": "CSC_ENCHANTED_OTHER",
+    "skill_used": "fabrication",
+    "skills_required": [ "spellcraft", 10 ],
+    "difficulty": 1,
+    "time": "30 m",
+    "autolearn": true,
+	"reversible": true,
+    "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
+    "qualities": [
+      { "id": "HAMMER", "level": 3 },
+      { "id": "CHISEL", "level": 3 }
+    ]
+  }
+]
