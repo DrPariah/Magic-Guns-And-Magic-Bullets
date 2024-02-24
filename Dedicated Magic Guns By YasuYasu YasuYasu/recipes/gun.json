@@ -155,7 +155,7 @@
      ],
     "tools": [ [ [ "surface_heat", 10, "LIST" ] ] ],
     "components": [
-      [ [ "magic_revolver_ver5"      , 1  ] ],
+      [ [ "magic_revolver_ver6"      , 1  ] ],
       [ [ "pipe"                     , 1  ] ],
       [ [ "spring"                   , 1  ] ],
       [ [ "crystallized_mana"        , 20 ] ],
